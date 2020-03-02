@@ -1,0 +1,2 @@
+project-name: mst-jdbc-app
+stack: dev.local/appsody/java-openliberty:0.2
